@@ -101,7 +101,7 @@ export default function CTA() {
     });
   });
 
-  return () => mm.revert(); 
+  return () => mm.revert();
 });
 
   return (
@@ -142,7 +142,7 @@ export default function CTA() {
             text="Join Our Discord"
             className="mt-8 py-2 px-4"
             onClick={(e) => {
-              window.location.href = "https://discord.gg/WeUqHqQk";
+              window.location.href = "https://discord.gg/YMSWFSp6aG";
               e?.preventDefault();
             }}
           />
